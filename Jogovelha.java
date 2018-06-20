@@ -164,7 +164,7 @@ public static void check(){
         }else{
             System.out.println("DEU VELHA!");
         }
-        System.out.println("O tempo total de jogo foi de: " + getTempo() + " segundos ");
+        System.out.println("A partida durou " + getTempo() + " segundos ");
     }
     
 }
