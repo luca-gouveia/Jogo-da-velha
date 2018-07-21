@@ -9,5 +9,5 @@ Criado em 17/09/2017
 **Obs: Tenha o JDK instalado na máquina.**
 
 - Dentro do repositório *Jogo-da-velha/*, execute o seguinte comando:<br><br>
-<code>java Jogovelha.java</code>
+<code>java Jogovelha</code>
 
